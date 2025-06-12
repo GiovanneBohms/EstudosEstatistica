@@ -1,3 +1,7 @@
+## Para verificar os gráficos teste em GeoGebra
+```
+https://www.geogebra.org/calculator
+```
 
 ## 📈 Regressão Linear Simples
 
