@@ -158,9 +158,14 @@ A **distribuição normal** (ou curva de Gauss) é uma função de densidade sim
 f(x) = (1 / (σ√(2π))) * e^(-(x - μ)² / (2σ²))
 ```
 
+```makefile
+Substituindo:
+f(x) = (1 / (3.16√(2π))) * e^(-(x - 10)^2 / (2 * 3.16^2))
+```
 Onde:
-- μ é a média
-- σ é o desvio padrão
+
+- μ = 10, é a média
+- σ = 3.16, é o desvio padrão
 - e é a base do logaritmo natural
 - x é o valor da variável
 
